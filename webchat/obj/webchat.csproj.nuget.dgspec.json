@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj": {}
+    "E:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj": {}
   },
   "projects": {
-    "e:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj": {
+    "E:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj",
+        "projectUniqueName": "E:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj",
         "projectName": "webchat",
-        "projectPath": "e:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj",
+        "projectPath": "E:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "e:\\VSCode\\Quinta\\Bate-Papo\\webchat\\obj\\",
+        "outputPath": "E:\\VSCode\\Quinta\\Bate-Papo\\webchat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"

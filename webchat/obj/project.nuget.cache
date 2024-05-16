@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bf3d34hcm0RNWZ4XVXQBqROPah7uQ58J0ncPvZwNLVUJa+LYSngos3u824PBenyT5K5AYNxezK5HYZeL1LuW+Q==",
+  "dgSpecHash": "sadB7ly+m7yKeglY6g+7sHU09D4kZ6mfaaAEfN8Q2xPmrPnUOmrzGF1FBSciwxx3651W0Ka3z406ckNZXEWHmQ==",
   "success": true,
-  "projectFilePath": "e:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj",
+  "projectFilePath": "E:\\VSCode\\Quinta\\Bate-Papo\\webchat\\webchat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\super\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\super\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
